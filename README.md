@@ -1,0 +1,13 @@
+# ProjetoUnes
+Embora a abordagem adotada neste projeto não seja considerada ideal para o desenvolvimento de sites modernos, ela foi explorada como um exercício para demonstrar a versatilidade das tabelas e das imagens em HTML5. É importante ressaltar que, para a criação de sites profissionais e otimizados, é recomendado utilizar outras técnicas, como a separação de estrutura e estilo usando CSS, além de adotar práticas que priorizem a acessibilidade, usabilidade e desempenho.
+
+Este site foi desenvolvido como um exercício pessoal para aprimoração e o melhor entendimento dos elementos básicos do HTML5. É importante ressaltar que o uso de tabelas e imagens para construir um site não é considerado uma boa prática atualmente. No entanto, para fins educacionais, foi utilizada uma estrutura de tabelas para interligar três páginas neste projeto.
+
+O site em questão foi desenvolvido exclusivamente em HTML5, utilizando uma estrutura baseada em tabelas para a disposição dos elementos na página. As tabelas foram utilizadas para criar seções distintas, permitindo uma organização visualmente clara do conteúdo. Cada tabela contém células que podem conter texto, imagens e outros elementos.
+
+Embora existam métodos mais modernos e flexíveis, como o uso de CSS e layouts responsivos, a utilização de tabelas ainda pode ser adequada em alguns casos específicos. Elas podem ser úteis para exibir dados tabulares, como uma tabela de preços ou uma lista de produtos com suas respectivas características. No entanto, é importante ressaltar que para a estrutura geral de um site, é recomendado utilizar outras técnicas de posicionamento, como o CSS Grid ou o Flexbox.
+
+Além das tabelas, o site inclui também o uso de imagens para enriquecer o conteúdo. As imagens podem ser inseridas em células individuais ou podem ocupar toda a largura da tabela. Embora as imagens possam adicionar apelo visual, é importante ter em mente que elas podem aumentar o tempo de carregamento do site e dificultar a acessibilidade para usuários com deficiência visual. Portanto, é essencial otimizar o tamanho e o formato das imagens, além de fornecer alternativas textuais para que os usuários compreendam o conteúdo mesmo sem visualizá-las.
+
+Além da estrutura baseada em tabelas e imagens, o site também inclui um formulário de envio de dúvidas. O formulário é composto por campos de entrada de texto, onde os visitantes podem digitar suas perguntas ou comentários. O uso de formulários é uma maneira interativa de permitir a comunicação direta com os visitantes do site, embora seja importante implementar medidas de segurança para evitar abusos ou envio de spam.
+
